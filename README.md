@@ -10,6 +10,5 @@ I am a software engineer focused on Python, ML pipelines, and custom LLM enginee
 ### ☕ Support My Work
 If my tools have saved you time or made your self-hosted setup easier, consider supporting me! Your contributions directly offset the monthly server and infrastructure bills I pay out-of-pocket to keep these projects running.
 
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/YOUR_GITHUB_USERNAME)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/rubensadev)
 [![Support via PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal)](https://www.paypal.me/rubensadev/)
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/rubensadev/)
